@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Junioracpj
 - 👀 I’m interested in development and TI things
 - 🌱 I’m currently learning Python and your applications
-- 💞️ I’m looking to collaborate on Python projects, mainly in Data Science
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me : https://www.linkedin.com/in/ant%C3%B4nio-carlos-pereira-junior-425a06119/
 - Thanks for everything <3
 <!---
