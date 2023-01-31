@@ -1,14 +1,12 @@
 - 👋 Hi, guys!!
 - Me chamo Junior e sou estudante de ciência de dados.
-- Atualmente estou me graduando em análise e desenvolvimento de sistemas na Uninter.
-
+- Estou me graduando em análise e desenvolvimento de sistemas na Uninter.
 - 🌱 O que venho estudando ao longo do meu periodo de formação:
-- Python para análise de dados
-- SQL/NoSQL
-- Machine Learning
-- DataBricks
-- Data Vizualization
-  
+-  Python para análise de dados
+-  SQL/NoSQL
+-  Machine Learning
+-  DataBricks
+-  Data Vizualization
 - 💞️ Nesse GitHub eu posto todas as minhas atividades acadêmicas, projetos e cursos e venho fazendo na área de dados.
 - 📫 Se quiser me encontrar em outra plataforma, aqui está o meu LinkedIn:bit.ly/3wruSje
 
