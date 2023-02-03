@@ -1,7 +1,7 @@
 - 👋 Hi, guys!!
 - Me chamo Junior e sou estudante de Ciência de Dados.
 - Estou me graduando em Análise e Desenvolvimento de Sistemas na Uninter.
-- 🌱 Principais ferramentas/habilidades que tenho utilizado:
+- 🌱 Principais ferramentas/habilidades que tenho estudado:
 -  Python para análise de dados
 -  SQL/NoSQL
 -  Machine Learning
