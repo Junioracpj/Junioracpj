@@ -1,6 +1,6 @@
 <h2>👋 Hi, guys. I'm Junior!</h2>
 <p>Sou estudante em Análise e Desenvolvimento de Sistemas na Uninter.</p>
-<p>Atualmente, Data Science é a minha principal área de estudo, principalmente em Python para análise de dados e suas aplicações.</p>
+<p>Em minha tragetória dev, escolhi Data Science como minha área de estudo, principalmente Python para análise de dados e suas aplicações.</p>
 <h4>🌱 Principais ferramentas/habilidades que tenho estudado:</h4>
 <ol>
 	<li>Python</li>
