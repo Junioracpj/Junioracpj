@@ -1,17 +1,17 @@
 <h2>👋 Hi, guys. I'm Junior!</h2>
 <p>Sou estudante em Análise e Desenvolvimento de Sistemas na Uninter.</p>
-<p>Atualmente, Data Science é a minha principal área de estudo e estou focado nisso, principalmente em Python para análise de dados e suas aplicações.</p>
+<p>Atualmente, Data Science é a minha principal área de estudo, principalmente em Python para análise de dados e suas aplicações.</p>
 <h4>🌱 Principais ferramentas/habilidades que tenho estudado:</h4>
-  <ol>
-  <li>Python</li>
-  <li>Scikit-Learn</li>
+<ol>
+	<li>Python</li>
+	<li>Scikit-Learn</li>
 	<li>SQL/NoSQL</li>
 	<li>Machine Learning</li>
 	<li>DataBricks</li>
 	<li>Data Vizualization</li>
-  <li>Power Bi</li>
-  </ol> 
-  
+	<li>Power Bi</li>
+</ol> 
+
 <p>💞️ Nesse GitHub eu posto todas as minhas atividades acadêmicas, projetos e cursos que venho fazendo na área de dados.</p>
 
 <div align="center">
